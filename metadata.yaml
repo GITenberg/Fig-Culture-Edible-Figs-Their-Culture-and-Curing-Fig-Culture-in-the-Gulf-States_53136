@@ -1,0 +1,33 @@
+_repo: Fig-Culture-Edible-Figs-Their-Culture-and-Curing-Fig-Culture-in-the-Gulf-States_53136
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Eisen, Gustavus A.
+    alias: Eisen, Gustav
+    birthdate: 1847
+    deathdate: 1940
+    gutenberg_agent_id: '47232'
+    url: http://www.gutenberg.org/2009/agents/47232
+  - agent_name: Earle, F. S. (Franklin Sumner)
+    alias: Earle, Franklin Sumner
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '47233'
+    url: http://www.gutenberg.org/2009/agents/47233
+description: ''
+gutenberg_issued: '2016-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53136'
+  lccn: agr09000330
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fig'
+- !lcc 'SB'
+- GITenberg
+title: "Fig Culture\r\nEdible Figs: Their Culture and Curing. Fig Culture in the Gulf\
+  \ States."
+url: http://www.gutenberg.org/ebooks/53136
